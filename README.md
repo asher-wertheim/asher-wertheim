@@ -6,7 +6,7 @@ I also build my own apps with AI coding tools. Each one starts from a real probl
 
 ## Projects
 
-### [Kupa](https://github.com/wertheim-asher/Kupa-expense-tracker) · [Live app](https://kupa-expense-tracker.netlify.app)
+### [Kupa](https://github.com/wertheim-asher/Kupa) · [Live app](https://kupa-expense-tracker.netlify.app)
 A shared budget app for couples. Both partners log expenses in seconds and see one number: how much is left until the next credit card billing cycle. This was my Product Management course final project. I took it from spec to MVP, then ran a 2-week pilot with real couples.
 
 `TypeScript` `React` `Supabase` `PWA` `Vitest` `Playwright`
