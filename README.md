@@ -1,14 +1,8 @@
 # Hi, I'm Asher
 
-Technical Operations Lead moving into Product Management.
+Ops lead turning into a product builder. I build small apps for real problems I had at home or at work.
 
-For 8 years I worked at Artlist, a global SaaS platform for video creators. I joined as employee 13 and grew from operations coordinator to team manager, and then to Technical Operations Lead.
-
-My titles were in operations, but much of my work was product work. I sat in product squads with R&D, Design and Data and helped define features, goals and acceptance criteria.
-
-After Artlist I took the Product Management course at the Hebrew University. Since then I have been building my own apps with AI tools. Each one starts from a real problem I had at home or at work.
-
-I'm looking for a Product Manager or TPM role, close to users and engineers.
+I plan each one like a PM, with the problem, a spec and a clear scope first. Then I build it with AI coding tools like Claude Code, test it and ship it.
 
 ## Projects
 
@@ -27,6 +21,14 @@ A clipboard manager for macOS, based on Ditto for Windows. It saves everything y
 
 `Swift` `SwiftUI` `AppKit`
 
-## Contact
+## Background
+
+- 8 years at Artlist, a SaaS platform for video creators. Operations coordinator, then team manager, then Technical Operations Lead.
+- Worked in product squads with R&D, Design and Data. Built the Monday.com and Make automations many teams used every day.
+- Product Management course, Hebrew University (2026).
+
+## Open to
+
+Product Manager and TPM roles.
 
 [Portfolio](https://asherwertheim.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/asher-wertheim)
