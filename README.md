@@ -1,13 +1,19 @@
 # Hi, I'm Asher
 
-Product Manager, Technical Program Manager and operations lead. I spent 8+ years at Artlist and Motion Array, where I ran operations, led teams and fixed broken processes.
+Technical Operations Lead moving into Product Management.
 
-I also build my own apps with AI coding tools. Each one starts from a real problem I had at home or at work.
+For 8 years I worked at Artlist, a global SaaS platform for video creators. I joined as employee 13 and grew from operations coordinator to team manager, and then to Technical Operations Lead.
+
+My titles were in operations, but much of my work was product work. I sat in product squads with R&D, Design and Data and helped define features, goals and acceptance criteria.
+
+After Artlist I took the Product Management course at the Hebrew University. Since then I have been building my own apps with AI tools. Each one starts from a real problem I had at home or at work.
+
+I'm looking for a Product Manager or TPM role, close to users and engineers.
 
 ## Projects
 
 ### [Kupa](https://github.com/asher-wertheim/Kupa) · [Live app](https://kupa-expense-tracker.netlify.app)
-A shared budget app for couples. Both partners log expenses in seconds and see one number: how much is left until the next credit card billing cycle. This was my Product Management course final project. I took it from product spec to a working, live MVP.
+A shared budget app for couples. Both partners log expenses in seconds and see one number: how much is left until the next credit card billing cycle. This was my final project in the Hebrew University Product Management course. I took it from discovery and PRD to a live app.
 
 `TypeScript` `React` `Supabase` `PWA` `Vitest` `Playwright`
 
