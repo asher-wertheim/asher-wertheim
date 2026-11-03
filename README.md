@@ -1,6 +1,6 @@
 # Hi, I'm Asher
 
-Ops lead turning into a product builder. I build small apps for real problems I had at home or at work.
+Ops lead turning into a product manager. I build small apps for real problems I had at home or at work.
 
 I plan each one like a PM, with the problem, a spec and a clear scope first. Then I build it with AI coding tools like Claude Code, test it and ship it.
 
